@@ -1,0 +1,13 @@
+name: CO2emissions
+title: CO2emissions
+username:
+account: clairezhaang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7862283
+bundleId: 6619411
+url: https://clairezhaang.shinyapps.io/CO2emissions/
+when: 1670658435.91075
+lastSyncTime: 1670658435.91077
+asMultiple: FALSE
+asStatic: FALSE
